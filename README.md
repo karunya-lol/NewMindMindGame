@@ -10,7 +10,7 @@
 | Portal | URL | Access Credentials |
 | :--- | :--- | :--- |
 | **Candidate Player Arena** | `http://localhost:8000` | Enter any alphanumeric **Team ID** (e.g. `ALPHA_01`) |
-| **Admin Host Console** | `http://localhost:8000/dashboard.html` | Password: **`Karunya2007`** (configurable in `.env`) |
+| **Admin Host Console** | `http://localhost:8000/dashboard.html` | Password: **`AdminPassword`** (configurable in `.env`) |
 | **Cloud Production URL** | `https://mindmind.onrender.com` | Deployed on Render |
 
 ---
