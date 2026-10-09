@@ -140,7 +140,7 @@ Visit:
    - **Start Command**: `npm start`
 3. Add Environment Variables in Render Dashboard:
    - `MONGO_URI`: `mongodb+srv://...`
-   - `ADMIN_PASSWORD`: `Karunya2007`
+   - `ADMIN_PASSWORD`: `AdminPassword`
    - `PORT`: `8000`
 4. Click **Deploy**.
 
